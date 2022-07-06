@@ -46,8 +46,10 @@
 
 - No terminal, confira a instalação: php -v
 
-- Iniciar servidor php
-``` php -S localhost:8080 ```
+- Iniciar servidor php, no terminal:
+``` 
+php -S localhost:8080 
+```
 
 <br><br>
 

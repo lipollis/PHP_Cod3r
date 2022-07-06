@@ -62,7 +62,7 @@ php -S localhost:8080
 - Arrays
 - Estrutura de Controle #2 (for/do/while)
 - Funções
-- Orientação a Objetos
+- Orientação a Objetos PHP
 - Includes
 - Namespace
 - Tratamento de erro
